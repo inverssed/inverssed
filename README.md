@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9B0EF7&lines=Hello+!+Im+flashh.+%E2%9A%A1;Visit+my+website+%3A+flashh.contact.+%F0%9F%8C%9F;And+enjoy+it+!+%E2%9C%A8)](https://git.io/typing-svg)
-## About Me ✨
+## About
 My name is arthur but you can call me flashh, I was born in 2002, currently in BTS SIO in option SISR to be able to work in the network administration as well as the cybersecurity. I also try to learn development as I can
 <br/> 
 ## Tools & Programming languages 🔧
@@ -39,22 +39,15 @@ My name is arthur but you can call me flashh, I was born in 2002, currently in B
 <a href="#" target="_blank">
 <img alt="Wireshark" src="https://img.shields.io/badge/wireshark-004DB0?style=for-the-badge&logo=wireshark&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
-<br/>
 
-## Stats 📈
-![Main stats](https://github-readme-stats.vercel.app/api?username=flashhrdc&show_icons=true&theme=radical)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flashhrdc&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-
-## My social networks 🌍
-<a href="https://twitter.com/flxsh_h" target="_blank">
+## Networks
+<a href="https://twitter.com/inverssed target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/channel/UCd1dXBA4p7ikzeBaVrPfnXg" target="_blank">
+<a href="https://www.youtube.com/c/inverssed/" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-<a href="https://discord.gg/rdc" target="_blank">
+<a href="https://discord.gg/orange" target="_blank">
 <img src=https://img.shields.io/badge/discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a> 
 <br/>  
