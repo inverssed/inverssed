@@ -2,7 +2,7 @@
 ## About
 My name is arthur but you can call me flashh, I was born in 2002, currently in BTS SIO in option SISR to be able to work in the network administration as well as the cybersecurity. I also try to learn development as I can
 <br/> 
-## Tools & Programming languages 🔧
+## Skills
 <a href="#" target="_blank">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 5px;"/>
 </a>
@@ -26,19 +26,6 @@ My name is arthur but you can call me flashh, I was born in 2002, currently in B
 </a>
 <a href="#" target="_blank">
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 5px;"/>
-</a>
-<a href="#" target="_blank">
-<img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%0DB000?style=for-the-badge&logo=mongodb&logoColor=white" style="margin-bottom: 5px;"/>
-</a> 
-<a href="#" target="_blank">
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 5px;"/>
-</a> 
-<a href="#" target="_blank">
-<img alt="Photoshop" src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" style="margin-bottom: 5px;"/>
-</a>
-<a href="#" target="_blank">
-<img alt="Wireshark" src="https://img.shields.io/badge/wireshark-004DB0?style=for-the-badge&logo=wireshark&logoColor=white" style="margin-bottom: 5px;"/>
-</a>
 <br/>
 
 ## Networks
