@@ -13,9 +13,6 @@ My name is arthur but you can call me flashh, I was born in 2002, currently in B
 <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23ED8B00?style=for-the-badge&logo=javascript&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
 <a href="#" target="_blank">
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" style="margin-bottom: 5px;"/>
-</a>
-<a href="#" target="_blank">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
 <a href="#" target="_blank">
