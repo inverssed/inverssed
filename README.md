@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=acc581&lines=Hello+!+Im+ivn+🌱;Visit+my+website+%3A+winveer.com+🍵;And+enjoy+it+!+💚)](https://git.io/typing-svg)
-## About
-.
-<br/> 
+
 ## Skills
 <a href="#" target="_blank">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 5px;"/>
