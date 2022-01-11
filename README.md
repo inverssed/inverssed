@@ -37,6 +37,6 @@
 <img src=https://img.shields.io/badge/youtube-c4302b.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 <a href="https://discord.gg/orange" target="_blank">
-<img src=https://img.shields.io/badge/discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a> 
 <br/>  
