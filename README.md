@@ -8,13 +8,13 @@
 <img alt="Debian" src="https://img.shields.io/badge/debian-acc581?style=for-the-badge&logo=debian&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
 <a href="#" target="_blank">
-<img alt="Javascript" src="https://img.shields.io/badge/javascript-%acc581?style=for-the-badge&logo=javascript&logoColor=white" style="margin-bottom: 5px;"/>
+<img alt="Javascript" src="https://img.shields.io/badge/javascript-acc581?style=for-the-badge&logo=javascript&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
 <a href="#" target="_blank">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%acc581.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 5px;"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-acc581.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
 <a href="#" target="_blank">
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%acc581.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 5px;"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-acc581.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
 <a href="#" target="_blank">
 <img alt="PHP" src="https://img.shields.io/badge/php-acc581?style=for-the-badge&logo=php&logoColor=white" style="margin-bottom: 5px;"/>
