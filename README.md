@@ -31,10 +31,10 @@
 <img src=https://img.shields.io/badge/twitch-6441a5.svg?&style=for-the-badge&logo=twitch&logoColor=white alt=twitch style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/c/inverssed/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /> 
+<img src=https://img.shields.io/badge/instagram-%C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /> 
 </a>
 <a href="https://www.youtube.com/c/inverssed/" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/youtube-%c4302b.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 <a href="https://discord.gg/orange" target="_blank">
 <img src=https://img.shields.io/badge/discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
