@@ -2,7 +2,7 @@
 
 ## Skills
 <a href="#" target="_blank">
-<img alt="Linux" src="https://img.shields.io/badge/Linux-43b581?style=for-the-badge&logo=linux&logoColor=121212" style="margin-bottom: 5px;"/>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-357b5c?style=for-the-badge&logo=linux&logoColor=121212" style="margin-bottom: 5px;"/>
 </a>
 <a href="#" target="_blank">
 <img alt="Debian" src="https://img.shields.io/badge/debian-357b5c?style=for-the-badge&logo=debian&logoColor=121212" style="margin-bottom: 5px;"/>
