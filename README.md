@@ -2,25 +2,25 @@
 
 ## Skills
 <a href="#" target="_blank">
-<img alt="Linux" src="https://img.shields.io/badge/Linux-43b581?style=for-the-badge&logo=linux&logoColor=ffffff" style="margin-bottom: 5px;"/>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-43b581?style=for-the-badge&logo=linux&logoColor=121212" style="margin-bottom: 5px;"/>
 </a>
 <a href="#" target="_blank">
-<img alt="Debian" src="https://img.shields.io/badge/debian-357b5c?style=for-the-badge&logo=debian&logoColor=ffffff" style="margin-bottom: 5px;"/>
+<img alt="Debian" src="https://img.shields.io/badge/debian-357b5c?style=for-the-badge&logo=debian&logoColor=121212" style="margin-bottom: 5px;"/>
 </a>
 <a href="#" target="_blank">
-<img alt="Javascript" src="https://img.shields.io/badge/javascript-357b5c?style=for-the-badge&logo=javascript&logoColor=ffffff" style="margin-bottom: 5px;"/>
+<img alt="Javascript" src="https://img.shields.io/badge/javascript-357b5c?style=for-the-badge&logo=javascript&logoColor=121212" style="margin-bottom: 5px;"/>
 </a>
 <a href="#" target="_blank">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-357b5c.svg?style=for-the-badge&logo=html5&logoColor=ffffff" style="margin-bottom: 5px;"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-357b5c.svg?style=for-the-badge&logo=html5&logoColor=121212" style="margin-bottom: 5px;"/>
 </a>
 <a href="#" target="_blank">
-<img alt="CSS3" src="https://img.shields.io/badge/css3-357b5c.svg?style=for-the-badge&logo=css3&logoColor=ffffff" style="margin-bottom: 5px;"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-357b5c.svg?style=for-the-badge&logo=css3&logoColor=121212" style="margin-bottom: 5px;"/>
 </a>
 <a href="#" target="_blank">
-<img alt="PHP" src="https://img.shields.io/badge/php-357b5c?style=for-the-badge&logo=php&logoColor=ffffff" style="margin-bottom: 5px;"/>
+<img alt="PHP" src="https://img.shields.io/badge/php-357b5c?style=for-the-badge&logo=php&logoColor=121212" style="margin-bottom: 5px;"/>
 </a>
 <a href="#" target="_blank">
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-357b5c.svg?style=for-the-badge&logo=mysql&logoColor=ffffff" style="margin-bottom: 5px;"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-357b5c.svg?style=for-the-badge&logo=mysql&logoColor=121212" style="margin-bottom: 5px;"/>
 <br/>
 
 ## Networks
