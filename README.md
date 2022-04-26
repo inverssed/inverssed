@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=357b5c&lines=Hi+!+Im+ivn+🖋;Visit+my+website+%3A+winveer.com+;And+enjoy+it+!+🖤)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=357b5c&lines=Hi+!+Im+ivn;Visit+my+website+%3A+winveer.com+;And+enjoy+it+!)](https://git.io/typing-svg)
 
 ## Skills
 <a href="#" target="_blank">
