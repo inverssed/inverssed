@@ -25,18 +25,18 @@
 
 ## Networks
 <a href="https://twitter.com/inverssed" target="_blank">
-<img src=https://img.shields.io/badge/twitter-000000.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitter-000000.svg?&style=for-the-badge&logo=twitter&logoColor=357b5c alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitch.com/inverssed" target="_blank">
-<img src=https://img.shields.io/badge/twitch-000000.svg?&style=for-the-badge&logo=twitch&logoColor=white alt=twitch style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitch-000000.svg?&style=for-the-badge&logo=twitch&logoColor=357b5c alt=twitch style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/c/inverssed/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /> 
+<img src=https://img.shields.io/badge/instagram-000000.svg?&style=for-the-badge&logo=instagram&logoColor=357b5c alt=instagram style="margin-bottom: 5px;" /> 
 </a>
 <a href="https://www.youtube.com/c/inverssed/" target="_blank">
-<img src=https://img.shields.io/badge/youtube-000000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/youtube-000000.svg?&style=for-the-badge&logo=youtube&logoColor=357b5c alt=youtube style="margin-bottom: 5px;" />
 </a>  
 <a href="https://discord.gg/orange" target="_blank">
-<img src=https://img.shields.io/badge/discord-000000.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/discord-000000.svg?&style=for-the-badge&logo=discord&logoColor=357b5c alt=discord style="margin-bottom: 5px;" />
 </a> 
 <br/>   
